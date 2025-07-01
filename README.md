@@ -9,3 +9,8 @@ Probably does contain:
    2. Introduction to Deep Learning at `/dl` folder
    3. Computer Vision at `/cv` folder
    
+
+## Let's just edit this thing for real. 
+And fast, what do you think? 
+Just okay, right? 
+
